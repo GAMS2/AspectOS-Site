@@ -491,3 +491,22 @@ h3 {
 .tooltip:hover .tooltiptext {
   opacity: 1;
 }
+.blacktext {
+  color: black;
+}
+body {
+  right: 0px;
+  width: 98%;
+  padding: 20px;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  word-wrap: break-word;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+p {
+  color: black;
+}
