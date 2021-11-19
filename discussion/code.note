@@ -45,3 +45,11 @@ where's <li>?
 EDIT: fixed!
 yooit
 ============
+I found out this works:
+<marquee direction="left"><section class="features">Text</section></marquee>
+It will actually slide hahaha.
+-GAMS2
+REPLY:
+     You can make it go up, down and right too!
+yooit
+========================================
